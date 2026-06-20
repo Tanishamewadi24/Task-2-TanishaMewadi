@@ -5,4 +5,4 @@ A Java application that calculates total marks, percentage, grade, and pass/fail
 
 Features - Multiple subject marks input,Total marks calculation, Percentage calculation,Grade assignment,Pass/Fail status.
 
-Concepts Used - Variables,Loops, Arithmetic Operations,Conditional Statements,
+Concepts Used - Variables,Loops, Arithmetic Operations,Conditional Statements.
